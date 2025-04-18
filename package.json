@@ -11,7 +11,7 @@
     "nanoid": "^4.0.0",
     "vite": "^5.0.0",
     "@vitejs/plugin-react": "^4.0.4",
-    "@replit/vite-plugin-runtime-error-modal": "^1.0.9",
+    "@replit/vite-plugin-runtime-error-modal": "^0.0.3",
     "@replit/vite-plugin-shadcn-theme-json": "^1.0.1"
   }
 }
